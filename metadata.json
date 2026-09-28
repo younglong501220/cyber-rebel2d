@@ -1,0 +1,6 @@
+{
+  "name": "CYBER-REBEL: 2D 都市游擊戰",
+  "description": "賽博朋克風格 2D 俯視角潛行射擊遊戲，配備視線阻擋檢測（Line-of-Sight）、掩體平滑滑動碰撞、巡邏/警戒 AI 狀態機與多武器戰術裝備。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
